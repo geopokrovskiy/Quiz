@@ -1,0 +1,8 @@
+
+Q
+java:S11173";Rename "results" which hides the field declared at line 17.(Ùü´Ê
+o
+java:S3012@"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(›´‡ö
+>	java:S108E")Either remove or fill this block of code.(æöûá
+Q
+java:S1117Z";Rename "results" which hides the field declared at line 17.(Á×Ÿ™

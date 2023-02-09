@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="LoadingForm" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: mistyrose"
+            stylesheets="@bootstrap3.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.geopokrovskiy.program.LoadingForm">
+    <children>
+        <TextField fx:id="numberOfQuestions" layoutX="210.0" layoutY="71.0"/>
+        <Label layoutX="166.0" layoutY="44.0" text="Number of questions (select from 1 to 10)">
+            <font>
+                <Font name="Verdana" size="12.0"/>
+            </font>
+        </Label>
+        <ComboBox fx:id="category" layoutX="210.0" layoutY="135.0" prefWidth="150.0"/>
+        <Label layoutX="237.0" layoutY="108.0" text="Select Category">
+            <font>
+                <Font name="Verdana" size="12.0"/>
+            </font>
+        </Label>
+        <ComboBox fx:id="difficulty" layoutX="211.0" layoutY="205.0" prefWidth="150.0"/>
+        <Label layoutX="238.0" layoutY="179.0" text="Select Difficulty">
+            <font>
+                <Font name="Verdana" size="12.0"/>
+            </font>
+        </Label>
+        <Button fx:id="startButton" layoutX="211.0" layoutY="329.0" mnemonicParsing="false" onAction="#startQuiz"
+                prefHeight="25.0" prefWidth="67.0" style="-fx-background-insets: 0,0,-1,0;" styleClass="primary"
+                text="Start"/>
+        <Button fx:id="saveButton" layoutX="294.0" layoutY="329.0" mnemonicParsing="false" onAction="#saveToFile"
+                prefHeight="25.0" prefWidth="67.0" style="-fx-background-insets: 0,0,-1,0;" styleClass="primary"
+                text="Save"/>
+        <Label layoutX="227.0" layoutY="250.0" text="Select Question Type">
+            <font>
+                <Font name="Verdana" size="12.0"/>
+            </font>
+        </Label>
+        <ComboBox fx:id="questionType" layoutX="211.0" layoutY="275.0" prefWidth="150.0"/>
+    </children>
+</AnchorPane>

@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "On+a+London+Underground+map%2C+what+colour+is+the+Circle+Line%3F",
+    "correct_answer": "Yellow",
+    "incorrect_answers": [
+      "Red",
+      "Blue",
+      "Green"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which+of+the+following+countries+is+within+the+Eurozone+but+outside+of+the+Schengen+Area%3F",
+    "correct_answer": "Cyprus",
+    "incorrect_answers": [
+      "Malta",
+      "Greece",
+      "Portugal"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What+city++has+the+busiest+airport+in+the+world%3F",
+    "correct_answer": "Atlanta%2C+Georgia+USA",
+    "incorrect_answers": [
+      "London%2C+England",
+      "Chicago%2CIllinois+ISA",
+      "Tokyo%2CJapan"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Bridgetown+is+the+capital+of+which+island+country+in+the+Carribean%3F",
+    "correct_answer": "Barbados",
+    "incorrect_answers": [
+      "Cuba",
+      "Jamaica%26lrm%3B",
+      "Dominica"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What+is+the+name+of+the+only+remaining+Grand+Duchy+in+the+world+%3F",
+    "correct_answer": "Luxembourg",
+    "incorrect_answers": [
+      "Montenegro",
+      "Liechtenstein",
+      "Andorra"
+    ]
+  }
+]

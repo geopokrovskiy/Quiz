@@ -1,0 +1,17 @@
+
+g
+java:S1192;"QDefine a constant instead of duplicating this literal "Incorrect format" 3 times.(Ë—¸¼
+s
+java:S1104"]Make numberOfQuestions a static final constant or non-public and provide accessors if needed.(„üÜ
+j
+java:S1104"TMake category a static final constant or non-public and provide accessors if needed.(ã´©§
+l
+java:S1104"VMake difficulty a static final constant or non-public and provide accessors if needed.(ƒØ§ô
+m
+java:S1104"WMake startButton a static final constant or non-public and provide accessors if needed.(¦Ñğñ
+n
+java:S1104"XMake questionType a static final constant or non-public and provide accessors if needed.(‚òâÔ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+M
+java:S1172\"2Remove this unused method parameter "actionEvent".(²ù°Åÿÿÿÿÿ
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ŒÉñÇâ0
